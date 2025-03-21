@@ -6,7 +6,7 @@
 
 ## 📸 Tampilan Website
 
-![Screenshot Foodtopia](./assets/img/foodtopiia.png)
+![Foodtopia](./assets/img/foodtopiia.png)
 
 
 ---
@@ -16,7 +16,6 @@
 - 🔍 Pencarian resep dengan mudah
 - 📋 Detail resep lengkap (bahan, langkah, gambar)
 - 📱 Desain responsif untuk semua perangkat
-- ❤️ Simpan resep favorit (jika ada fitur ini)
 
 ---
 
@@ -26,7 +25,6 @@
 - HTML, CSS
 - MySQL
 
-
 ---
 
 ## 📂 Cara Menjalankan Website
@@ -35,3 +33,4 @@
 2. Jalankan server PHP built-in:
    ```bash
    php -S localhost:8000
+3. Atau bisa menggunakan Web server sperti apache2
